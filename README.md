@@ -6,7 +6,7 @@
 
 ##  Demonstration Video
 
-▶️ **[Click Here Watch Full Demonstration](https://youtu.be/FEBY0ZmixHQ?si=CmhnEGLUDZuSo8Nm)**
+▶️ **[Click Here to Watch Full Demonstration](https://youtu.be/FEBY0ZmixHQ?si=CmhnEGLUDZuSo8Nm)**
 
 ---
 

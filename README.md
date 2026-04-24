@@ -171,6 +171,10 @@ The **TCS3200** color sensor reads RGB frequency values from the crate surface:
 - Triggers the **electromagnet** (via MOSFET driver) to pick up the metal sheet on the crate
 - Releases the electromagnet at the correct drop zone
 
+Priority Weighted Sequence is given based on following formula:
+---> Priority = Summation[Package Weightage] * Box Picked and Placed.
+Where the weightage is as follows: R:50 | B:30 | G:10.
+and the Priority sequence is the number of correct packages delivered in the continuous sequence of the entire theme; The Priority Sequence is  R-B-G
 
 ---
 

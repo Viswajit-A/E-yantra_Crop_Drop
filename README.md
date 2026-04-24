@@ -182,7 +182,7 @@ and the Priority sequence is the number of correct packages delivered in the con
 
 **Step 1 — Startup:** Robot powers on at the supply depot. RGB LED indicates ready state.
 
-**Step 2 — Farm Path Navigation:** PID controller follows the white-line track through curves, zigzags, and dotted segments.
+**Step 2 — Farm Path Navigation:** PID/RL controller follows the white-line track through curves, zigzags, and dotted segments.
 
 **Step 3 — Crate Detection:** At each crate location, the TCS3200 reads the crate color. Priority is determined (Red > Green > Blue or per task specification).
 

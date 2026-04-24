@@ -10,21 +10,21 @@
 
 ---
 
-### Robot — Side View
-
-![CropDrop Bot Side View](Bot_Photos/CB.jpeg)
-*Fully assembled CropDrop Bot — dual-layer circular acrylic chassis (Fusion 360 design,
-laser cut), N20 drive motors with rubber wheels, electromagnet at front, eYRC custom PCB
-and STM32 Nucleo on the top layer*
-
----
-
 ### Electronics & PCB — Top View
 
 ![CropDrop Bot Top View](Bot_Photos/CB1.jpeg)
 *Bird's-eye view of the electronics layer — eYRC 2025-26 CropDrop Bot custom PCB,
 STM32 Nucleo F103RB, buck module (voltage regulation), Pro:Range 2200mAh 3S LiPo
 battery, toggle power switch, and electromagnet mounted on the laser-cut acrylic chassis*
+
+---
+
+### Robot — Side View
+
+![CropDrop Bot Side View](Bot_Photos/CB.jpeg)
+*Fully assembled CropDrop Bot — dual-layer circular acrylic chassis (Fusion 360 design,
+laser cut), N20 drive motors with rubber wheels, electromagnet at front, eYRC custom PCB
+and STM32 Nucleo on the top layer*
 
 ---
 

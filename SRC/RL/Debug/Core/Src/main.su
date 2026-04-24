@@ -1,0 +1,17 @@
+../Core/Src/main.c:131:5:main	32	static
+../Core/Src/main.c:200:6:Process_Box_Detection	8	static
+../Core/Src/main.c:288:6:Activate_Magnet_Sequence	16	static
+../Core/Src/main.c:317:10:Get_Frequency	16	static
+../Core/Src/main.c:338:6:Set_LED_Color	16	static
+../Core/Src/main.c:357:6:Follow_White_Line	16	static
+../Core/Src/main.c:452:6:Follow_Black_Line	64	static
+../Core/Src/main.c:796:6:Perform_Action	40	static
+../Core/Src/main.c:824:6:Set_Motor_Speed	16	static
+../Core/Src/main.c:859:9:Get_State	32	static
+../Core/Src/main.c:882:5:Choose_Action	24	static
+../Core/Src/main.c:931:6:MX_GPIO_Box_Init	40	static
+../Core/Src/main.c:973:6:Setup_Robot_Manually	80	static
+../Core/Src/main.c:1027:6:SystemClock_Config	88	static
+../Core/Src/main.c:1050:6:MX_ADC1_Init	24	static
+../Core/Src/main.c:1070:6:MX_DMA_Init	16	static
+../Core/Src/main.c:1086:6:Error_Handler	4	static,ignoring_inline_asm
